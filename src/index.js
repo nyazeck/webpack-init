@@ -2,5 +2,5 @@ import { saludar } from './js/componentes';
 import './style.css';
 
 
-const nombre = 'Test webpack';
+const nombre = 'Webpack config';
 saludar ( nombre );
